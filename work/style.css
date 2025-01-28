@@ -7,7 +7,7 @@ body {
   top: 0;
   left: 0;
   bottom: 0;
-  padding: 12px;
+  padding: 9px;
   width: 300px;
 }
 .sidebar_navigation{
@@ -39,7 +39,8 @@ padding: 16px 0x 16px;
   font-family: "DM Sans", sans-serif;
 }
 .logo img{
-  width: 80px;
+  width: 100px;
+  padding: 10px;
 }
 .library{
   background-color: #121212;
@@ -51,7 +52,7 @@ padding: 16px 0x 16px;
   color: #b3b3b3;
   font-weight: 600;
   font-size: 14px;
-  margin-top: 180px; 
+  margin-top: 210px; 
   top: 0;
   left: 0;
   bottom: 0;
