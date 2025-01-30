@@ -1,1 +1,1 @@
-# spotify-imersao ALURA
+# spotify-imersao
