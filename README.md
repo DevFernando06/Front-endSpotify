@@ -11,5 +11,5 @@ CSS3: Estilização e design responsivo.
 JavaScript: Interatividade e funcionalidades dinâmicas.
 </p>
 <p> 
-<img >
+![Logo do Projeto](imgSpotify.png)
 </p>
