@@ -3,6 +3,7 @@
   Este repositório contém um clone da interface front-end do Spotify, desenvolvido com o objetivo de praticar e demonstrar habilidades em desenvolvimento web, utilizando tecnologias modernas como HTML, CSS, JavaScript e frameworks/bibliotecas como React ou Vue.js (dependendo da implementação).
 
 <h1>🚀 Tecnologias Utilizadas<h1> <br>
+<p>
 HTML5: Estruturação do conteúdo da página.
 
 CSS3: Estilização e design responsivo.
